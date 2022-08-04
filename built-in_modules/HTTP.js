@@ -13,8 +13,13 @@ const server = http.createServer((req, res)=>{
        )
 
     }
+})
+// other option is:
 
-    // res.write('Welcome to our home page ')
+const server1 = http.createServer()
+server1.on('request', (req, res)=> {
+    res.end('welcome')
 })
 
 server.listen(5000)
+// server1.listen(5000)
