@@ -10,6 +10,7 @@ app.get('/', (req, res)=>{
     
 })
 
+// here you call all files linked in html file
 app.all(('*'), (req, res)=>{
     res.status(404).send('<h1> Resource not found</h1>')
 })
