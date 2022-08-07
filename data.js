@@ -20,7 +20,7 @@ const products = [
         name:'uvas',
         image: 'https://funforspanishteachers.com/wp-content/uploads/2013/12/Las-doce-uvas-980x513.png',
         price: 0.20,
-        desc: 'uvas directamente de la parra de mi abuela'
+        desc: 'abc'
 
     },
     {
