@@ -25,7 +25,7 @@ const products = [
     },
     {
         id:4,
-        name:'Manzanas',
+        name:'manzanas',
         image: 'https://cdn.foodandwineespanol.com/2021/01/manzanas-licor-de-manzana-1280x720.jpg',
         price: 1.40,
         desc: 'manzanas de arboles salvajes'
