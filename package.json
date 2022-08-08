@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
-    "loadsh": "^0.0.4"
+    "loadsh": "^0.0.4",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
